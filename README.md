@@ -3,7 +3,7 @@
 
 ![2048 Screenshot](screenshot.jpg)
 
-The original program is written by `cuadue`, I fork from ![here](https://github.com/cuadue/2048_game). Thanks cuadue!
+The original program is written by `cuadue`, I forked the code from https://github.com/cuadue/2048_game. Thanks cuadue!
 
 Sliding tile puzzle game in the terminal. The goal is to build the elusive
 `2048` tile by combining two `1024` tiles, which is in turn produced by
