@@ -1,7 +1,9 @@
-2048 Game in the Terminal
+2048 Game for HP 39gs Graphing Calculator
 =====
 
-![2048 Screenshot](screenshot.gif)
+![2048 Screenshot](screenshot.jpg)
+
+The original program is written by `cuadue`, I fork from ![here](https://github.com/cuadue/2048_game). Thanks cuadue!
 
 Sliding tile puzzle game in the terminal. The goal is to build the elusive
 `2048` tile by combining two `1024` tiles, which is in turn produced by
@@ -23,15 +25,7 @@ The score is simply the summation of the value of all tile combinations.
 
 The game is over when no moves are possible.
 
-The controls are Vim-like or arrow keys:
 
-* `h` slides the tiles to the left of the board
-* `j` slides down
-* `k` slides up
-* `l` slides right
-* `q` quits
-
-The real game uses a luscious 8 colors in two brighnesses (normal and bright).
 Here's a monochrome screenshot:
 
 ```
@@ -41,5 +35,7 @@ Score:    122  Turns:   40
    .    .    4   32       
    .    2   16    8       
    4    8    4    2
+   
+press ENTER to quit
 ```
 
